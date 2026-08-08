@@ -1,25 +1,54 @@
-<h1 align="left">Anand Bhalerao</h1>
+# Anand Bhalerao
 
-engineer • MERN stack • systems &amp; tooling
+building across Go, web & AI.
 
-building things with Go, C/C++, Python, and JavaScript — mostly to see how they work underneath.
+<br>
 
-### Interests
+### currently
 
-- Tooling
-- Systems
-- AI
+building with Go, React, and the web.  
+learning Python deeply.  
+exploring AI agents and generative AI.
 
-### Projects
+<br>
 
-- [http-packet-inspector](https://github.com/anandbhalerao18/http-packet-inspector) — real-time HTTP request/response inspector in Go, with DNS/TCP/TLS timing breakdown
-- [stock-scraper](https://github.com/anandbhalerao18/stock-scraper) — Go scraper pulling live stock data, exporting CSV and plotted graphs
-- [Basic-GoLang-Server](https://github.com/anandbhalerao18/Basic-GoLang-Server) — a bare HTTP server in Go, built from the ground up
+### selected work
 
-### Links
+[HTTP Packet Inspector](https://github.com/anandbhalerao18/http-packet-inspector) · Go  
+[Multithreaded File Search Engine](https://github.com/anandbhalerao18/FileSearchEngine) · Java  
+[Typing Test](https://github.com/anandbhalerao18/typing_test) · C / ncurses  
+[Stock Scraper](https://github.com/anandbhalerao18/stock-scraper) · Go  
+[GTA 6 Frontend](https://github.com/anandbhalerao18/GTA-Six-frontend) · React / Three.js  
+[Basic Go Server](https://github.com/anandbhalerao18/Basic-GoLang-Server) · Go
 
-- [Twitter](https://twitter.com/anandbhaleraooo)
-- [LinkedIn](https://linkedin.com/in/anandbhalerao)
-- [Email](mailto:bhalerao1895@gmail.com)
+<br>
 
-> "understand it before you ship it"
+### stack
+
+`Go` · `Python` · `C` · `C++` · `Java`  
+`JavaScript` · `TypeScript` · `React` · `Node.js` · `Express`  
+`MongoDB` · `PostgreSQL` · `SQL`  
+`Linux` · `Git`
+
+<br>
+
+### interested in
+
+networking · systems · concurrency · backend architecture  
+programming languages · compilers · frontend · AI/ML
+
+<br>
+
+### approach
+
+`learn → build → break → understand → rebuild`
+
+<br>
+
+### links
+
+[github](https://github.com/anandbhalerao18) ·
+[email](mailto:bhalerao1895@gmail.com) ·
+[linkedin](https://www.linkedin.com/in/anand-bhalerao-636570280) ·
+[x](https://x.com/AnandBhaleraooo) ·
+[portfolio](https://anandbhalerao-portfolio.netlify.app/)
