@@ -29,4 +29,4 @@ programming languages · compilers · frontend · AI/ML
 `learn → build → break → understand → rebuild`
 
 ### links
-[github](https://github.com/anandbhalerao18) · [email](mailto:bhalerao1895@gmail.com) · [linkedin](https://www.linkedin.com/in/anand-bhalerao-636570280) · [x](https://x.com/AnandBhaleraoo) · [portfolio](https://anandbhalerao-portfolio.netlify.app/)
+[github](https://github.com/anandbhalerao18) · [email](mailto:bhalerao1895@gmail.com) · [linkedin](https://www.linkedin.com/in/anand-bhalerao-636570280) · [x](https://x.com/AnandBhaleraooo) · [portfolio](https://anandbhalerao-portfolio.netlify.app/)
